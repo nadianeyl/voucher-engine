@@ -1,3 +1,3 @@
-module github.com/nadiannis/voucher-engine
+module github.com/nadianeyl/voucher-engine
 
 go 1.22.1

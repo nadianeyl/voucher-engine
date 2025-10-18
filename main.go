@@ -10,7 +10,7 @@ func main() {
 		ID: 1,
 		User: User{
 			ID:        1,
-			Username:  "nadiannis",
+			Username:  "nadianeyl",
 			Birthdate: parseDate("2010-10-05"),
 			Location: Location{
 				City: "Bekasi",
